@@ -1,3 +1,3 @@
 # Deployed link
 
-https://elzada2022.github.ea/
+https://elzada2022.github.ea/index.html
